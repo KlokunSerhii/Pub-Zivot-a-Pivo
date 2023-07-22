@@ -17,7 +17,7 @@ function RegisterPage() {
           placeholder="password"
         />
         <button type="button">
-          LogIn
+          Register
         </button>
       </form>
     </div>
