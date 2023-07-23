@@ -7,10 +7,11 @@ import {
 
 export const Section = styled.section`
   display: flex;
+  flex-direction: column;
+  justify-content: center;
   width: 1200px;
   margin: 0 auto;
   padding: 0 15px;
-  justify-content: center;
 `;
 export const List = styled.ul`
   display: flex;
