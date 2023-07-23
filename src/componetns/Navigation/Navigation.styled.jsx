@@ -6,8 +6,8 @@ export const Div = styled.div`
   align-items: center;
 `;
 export const Logo = styled.img`
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
 `;
 export const StyledLink = styled(NavLink)`
   font-weight: 700;
@@ -16,9 +16,13 @@ export const StyledLink = styled(NavLink)`
   line-height: 1.14;
   text-decoration: none;
   letter-spacing: 0.02em;
-  color: #0f0f0f;
+  color: #ffffff;
 
   &.active {
     color: orange;
   }
+`;
+
+export const NavDiv = styled.div`
+  margin-left: 400px;
 `;

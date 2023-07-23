@@ -2,11 +2,16 @@ import styled from "@emotion/styled";
 import { NavLink } from "react-router-dom";
 
 export const Header = styled.header`
+  background-color: #0f0f0f;
+`;
+export const Container = styled.div`
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  height: 100px;
-  border-bottom: 1px solid black;
+  justify-content: space-between;
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  height: 150px;
 `;
 export const StyledLink = styled(NavLink)`
   font-weight: 700;
@@ -14,7 +19,7 @@ export const StyledLink = styled(NavLink)`
   line-height: 1.14;
   text-decoration: none;
   letter-spacing: 0.02em;
-  color: #0f0f0f;
+  color: #ffffff;
   font-size: 20px;
 
   &.active {

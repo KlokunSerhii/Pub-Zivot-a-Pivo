@@ -1,6 +1,11 @@
 import React from "react";
 import img from "../../img/logo.jpg";
-import { Div, Logo, StyledLink } from "./Navigation.styled";
+import {
+  NavDiv,
+  Div,
+  Logo,
+  StyledLink,
+} from "./Navigation.styled";
 
 function Navigation() {
   return (
@@ -8,11 +13,13 @@ function Navigation() {
       <StyledLink to="/">
         <Logo src={img} alt={"logo"} />
       </StyledLink>
-
-      <StyledLink to="/">HomePage</StyledLink>
-      <StyledLink to="/profile">ProfilePage</StyledLink>
-      <StyledLink to="/menu">MenuPage</StyledLink>
-      <StyledLink to="/afisha">AfishaPage</StyledLink>
+      <NavDiv>
+        <StyledLink to="/">Home</StyledLink>
+        <StyledLink to="/posters">Posters</StyledLink>
+        <StyledLink to="/gallery">Gallery</StyledLink>
+        <StyledLink to="/menu">Menu</StyledLink>
+        <StyledLink to="/profile">Profile</StyledLink>
+      </NavDiv>
     </Div>
   );
 }

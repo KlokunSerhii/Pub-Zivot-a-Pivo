@@ -1,9 +1,10 @@
 import React from "react";
+import GalleryList from "../componetns/GalleryList/GalleryList";
 
 function GalleryPage() {
   return (
     <div>
-      <h1>GalleryPage</h1>
+      <GalleryList />
     </div>
   );
 }
