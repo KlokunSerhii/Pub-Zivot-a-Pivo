@@ -1,11 +1,8 @@
 import React from "react";
+import Profile from "../componetns/Profile";
 
 function ProfilePage() {
-  return (
-    <div>
-      <h1>ProfilePage</h1>
-    </div>
-  );
+  return <Profile />;
 }
 
 export default ProfilePage;
