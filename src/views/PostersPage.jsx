@@ -1,5 +1,5 @@
 import React from "react";
-import PostersList from "../componetns/PostersList/PostersList";
+import PostersList from "../componetns/PostersList";
 
 function PostersPage() {
   return (

@@ -14,148 +14,169 @@ function GalleryList() {
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            TitТак само консультація з широким активом
-            значною мірою зумовлює.el
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            TiteТак само консультація з широким активом
-            значною мірою зумовлює.l
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
         <InfoDiv>
           <Img src={Poster3} alt={"foto"} />
           <Text>
-            Так само консультація з широким активом значною
-            мірою зумовлює.
+            Lorem ipsum dolor, sit amet consectetur
+            adipisicing elit. Temporibus nobis ipsum
+            facilis.
           </Text>
         </InfoDiv>
       </List>

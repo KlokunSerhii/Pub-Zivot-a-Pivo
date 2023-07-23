@@ -1,7 +1,7 @@
 import React, { Suspense } from "react";
 import { Outlet } from "react-router-dom";
-import AppBar from "../../componetns/AppBar/AppBar";
-import Footer from "../../componetns/Footer/Footer";
+import AppBar from "../../componetns/AppBar";
+import Footer from "../../componetns/Footer";
 import { Main } from "./SharedLayout.styled";
 
 function SharedLayout() {

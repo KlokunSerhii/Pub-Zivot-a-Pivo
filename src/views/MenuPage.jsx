@@ -1,10 +1,11 @@
 import React from "react";
+import MenuList from "../componetns/MenuList";
 
 function MenuPage() {
   return (
-    <div>
-      <h1>MenuPage</h1>
-    </div>
+    <>
+      <MenuList />
+    </>
   );
 }
 

@@ -22,13 +22,12 @@ function PostersList() {
           <TexContainar>
             <h2>Titel</h2>
             <Text>
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem
+              Lorem ipsum dolor, sit amet consectetur
+              adipisicing elit. Temporibus nobis ipsum
+              facilis, quaerat, debitis laudantium,
+              consectetur voluptas officia voluptates
+              ducimus exercitationem aspernatur facere eos
+              nemo! Consectetur harum ratione esse ut.
             </Text>
           </TexContainar>
         </InfoDiv>
@@ -39,13 +38,12 @@ function PostersList() {
           <TexContainar>
             <h2>Titel</h2>
             <Text>
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem
+              Lorem ipsum dolor, sit amet consectetur
+              adipisicing elit. Temporibus nobis ipsum
+              facilis, quaerat, debitis laudantium,
+              consectetur voluptas officia voluptates
+              ducimus exercitationem aspernatur facere eos
+              nemo! Consectetur harum ratione esse ut.
             </Text>
           </TexContainar>
         </InfoDiv>
@@ -56,13 +54,12 @@ function PostersList() {
           <TexContainar>
             <h2>Titel</h2>
             <Text>
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem
+              Lorem ipsum dolor, sit amet consectetur
+              adipisicing elit. Temporibus nobis ipsum
+              facilis, quaerat, debitis laudantium,
+              consectetur voluptas officia voluptates
+              ducimus exercitationem aspernatur facere eos
+              nemo! Consectetur harum ratione esse ut.
             </Text>
           </TexContainar>
         </InfoDiv>{" "}
@@ -73,13 +70,12 @@ function PostersList() {
           <TexContainar>
             <h2>Titel</h2>
             <Text>
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem
+              Lorem ipsum dolor, sit amet consectetur
+              adipisicing elit. Temporibus nobis ipsum
+              facilis, quaerat, debitis laudantium,
+              consectetur voluptas officia voluptates
+              ducimus exercitationem aspernatur facere eos
+              nemo! Consectetur harum ratione esse ut.
             </Text>
           </TexContainar>
         </InfoDiv>
@@ -90,13 +86,12 @@ function PostersList() {
           <TexContainar>
             <h2>Titel</h2>
             <Text>
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem
+              Lorem ipsum dolor, sit amet consectetur
+              adipisicing elit. Temporibus nobis ipsum
+              facilis, quaerat, debitis laudantium,
+              consectetur voluptas officia voluptates
+              ducimus exercitationem aspernatur facere eos
+              nemo! Consectetur harum ratione esse ut.
             </Text>
           </TexContainar>
         </InfoDiv>
@@ -107,13 +102,12 @@ function PostersList() {
           <TexContainar>
             <h2>Titel</h2>
             <Text>
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem
+              Lorem ipsum dolor, sit amet consectetur
+              adipisicing elit. Temporibus nobis ipsum
+              facilis, quaerat, debitis laudantium,
+              consectetur voluptas officia voluptates
+              ducimus exercitationem aspernatur facere eos
+              nemo! Consectetur harum ratione esse ut.
             </Text>
           </TexContainar>
         </InfoDiv>{" "}
@@ -124,13 +118,12 @@ function PostersList() {
           <TexContainar>
             <h2>Titel</h2>
             <Text>
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem
+              Lorem ipsum dolor, sit amet consectetur
+              adipisicing elit. Temporibus nobis ipsum
+              facilis, quaerat, debitis laudantium,
+              consectetur voluptas officia voluptates
+              ducimus exercitationem aspernatur facere eos
+              nemo! Consectetur harum ratione esse ut.
             </Text>
           </TexContainar>
         </InfoDiv>
@@ -141,13 +134,12 @@ function PostersList() {
           <TexContainar>
             <h2>Titel</h2>
             <Text>
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem
+              Lorem ipsum dolor, sit amet consectetur
+              adipisicing elit. Temporibus nobis ipsum
+              facilis, quaerat, debitis laudantium,
+              consectetur voluptas officia voluptates
+              ducimus exercitationem aspernatur facere eos
+              nemo! Consectetur harum ratione esse ut.
             </Text>
           </TexContainar>
         </InfoDiv>
@@ -158,13 +150,12 @@ function PostersList() {
           <TexContainar>
             <h2>Titel</h2>
             <Text>
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem
+              Lorem ipsum dolor, sit amet consectetur
+              adipisicing elit. Temporibus nobis ipsum
+              facilis, quaerat, debitis laudantium,
+              consectetur voluptas officia voluptates
+              ducimus exercitationem aspernatur facere eos
+              nemo! Consectetur harum ratione esse ut.
             </Text>
           </TexContainar>
         </InfoDiv>{" "}
@@ -175,13 +166,12 @@ function PostersList() {
           <TexContainar>
             <h2>Titel</h2>
             <Text>
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem
+              Lorem ipsum dolor, sit amet consectetur
+              adipisicing elit. Temporibus nobis ipsum
+              facilis, quaerat, debitis laudantium,
+              consectetur voluptas officia voluptates
+              ducimus exercitationem aspernatur facere eos
+              nemo! Consectetur harum ratione esse ut.
             </Text>
           </TexContainar>
         </InfoDiv>
@@ -192,13 +182,12 @@ function PostersList() {
           <TexContainar>
             <h2>Titel</h2>
             <Text>
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem
+              Lorem ipsum dolor, sit amet consectetur
+              adipisicing elit. Temporibus nobis ipsum
+              facilis, quaerat, debitis laudantium,
+              consectetur voluptas officia voluptates
+              ducimus exercitationem aspernatur facere eos
+              nemo! Consectetur harum ratione esse ut.
             </Text>
           </TexContainar>
         </InfoDiv>
@@ -209,13 +198,12 @@ function PostersList() {
           <TexContainar>
             <h2>Titel</h2>
             <Text>
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem,
-              Lorem, lorem, Lorem, lorem, Lorem, lorem
+              Lorem ipsum dolor, sit amet consectetur
+              adipisicing elit. Temporibus nobis ipsum
+              facilis, quaerat, debitis laudantium,
+              consectetur voluptas officia voluptates
+              ducimus exercitationem aspernatur facere eos
+              nemo! Consectetur harum ratione esse ut.
             </Text>
           </TexContainar>
         </InfoDiv>

@@ -12,14 +12,14 @@ export const InfoDiv = styled.div`
   flex-direction: row-reverse;
   margin-top: 50px;
   align-items: center;
-  background-color: rgba(211, 255, 255, 0.1);
+  background-color: rgba(211, 255, 255, 0.5);
   border-radius: 10px;
 `;
 export const InfoDivAfisha = styled.div`
   display: flex;
   margin-top: 50px;
   align-items: center;
-  background-color: rgba(211, 255, 255, 0.1);
+  background-color: rgba(211, 255, 255, 0.5);
   border-radius: 10px;
 `;
 export const Img = styled.img`

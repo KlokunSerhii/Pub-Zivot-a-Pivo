@@ -13,7 +13,7 @@ export const InfoDiv = styled.div`
   margin-top: 50px;
   margin-bottom: 50px;
   align-items: center;
-  background-color: rgba(211, 255, 255, 0.1);
+  background-color: rgba(211, 255, 255, 0.5);
   border-radius: 10px;
 `;
 export const Img = styled.img`

@@ -1,6 +1,6 @@
 import React from "react";
 import Hero from "../componetns/Hero/Hero";
-import DishWeek from "../componetns/DishWeek/DishWeek";
+import DishWeek from "../componetns/DishWeek";
 
 function HomePage() {
   return (
